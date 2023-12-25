@@ -15,10 +15,10 @@ I'm a Data Scientist
 
 ## 🛠 Skills
 1. Python
-2. SQL
-3. Machine Learning
-4. Data Science
+2. Machine Learning
+3. Computer Vision
+4. SQL
 5. Data Analysis
-6. Computer Vision
-7. Data Visualizatiton
+6. Deep Learning
+7. Data Visualizatiton 
 
