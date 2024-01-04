@@ -20,5 +20,6 @@ I'm a Data Scientist
 4. SQL
 5. Data Analysis
 6. Deep Learning
-7. Data Visualizatiton 
+7. Data Visualizatiton
+8. Cloud Development
 
