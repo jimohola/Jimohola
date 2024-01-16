@@ -17,9 +17,10 @@ I'm a Data Scientist
 1. Python
 2. Machine Learning
 3. Computer Vision
-4. SQL
+4. Deep Learning
 5. Data Analysis
-6. Deep Learning
+6. SQL 
 7. Data Visualizatiton
 8. Cloud Development
+9. Wed Application
 
